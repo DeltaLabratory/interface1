@@ -1,8 +1,7 @@
 # Hardhat Boilerplate
 
-This repository contains a sample project that you can use as the starting point
-for your Ethereum project. It's also a great fit for learning the basics of
-smart contract development.
+Sample project starting point for Ethereum or EVM compatiable project. Learn the basics of
+smart contract development from the ground up.
 
 This project is intended to be used with the
 [Hardhat Beginners Tutorial](https://hardhat.org/tutorial), but you should be
@@ -11,16 +10,14 @@ able to follow it by yourself by reading the README and exploring its
 
 ## Quick start
 
-The first things you need to do are cloning this repository and installing its
-dependencies:
+clone this repository and instal dependencies:
 
 ```sh
 git clone https://github.com/NomicFoundation/hardhat-boilerplate.git
 cd hardhat-boilerplate
 npm install
 ```
-
-Once installed, let's run Hardhat's testing network:
+run Hardhat's testing network:
 
 ```sh
 npx hardhat node
@@ -41,7 +38,7 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000/](http://localhost:3000/) to see your Dapp. You will
+Open [http://localhost:3000/](http://localhost:3000/) to see your dAPP. You will
 need to have [Metamask](https://metamask.io) installed and listening to
 `localhost 8545`.
 
